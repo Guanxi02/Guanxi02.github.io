@@ -1,6 +1,6 @@
 !(function() {
     /** 计时起始时间，自行修改 **/
-    var start = new Date("2023/03/027 00:00:00");
+    var start = new Date("2023/03/27 00:00:00");
   
     function update() {
       var now = new Date();
